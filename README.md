@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Im-Hassan-wd">
+    <a href="https://github.com/Im-Hassan-wd/My-gallery">
       Solution
     </a>
     <span> | </span>
