@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Im-Hassan-wd/My-gallery/master/collection/gallery.PNG)
 
 Inspired by instagram. A similar design to instagram profile page:
 
@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [gallery](https://https://devgallerypage.netlify.app/)
+- GitHub [Im-Hassan-wd](https://{github.com/Im-Hassan-wd)
+- Twitter [Hassan Weird](https://{twitter.com/hassan_weird)
