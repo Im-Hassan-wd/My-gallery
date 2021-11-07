@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devgallerypage.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Im-Hassan-wd">
       Solution
     </a>
     <span> | </span>
@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [gallery](https://https://devgallerypage.netlify.app/)
-- GitHub [Im-Hassan-wd](https://{github.com/Im-Hassan-wd)
-- Twitter [Hassan Weird](https://{twitter.com/hassan_weird)
+- GitHub [Im-Hassan-wd](https://github.com/Im-Hassan-wd)
+- Twitter [Hassan Weird](https://twitter.com/hassan_weird)
