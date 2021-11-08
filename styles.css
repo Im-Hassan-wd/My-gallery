@@ -29,7 +29,7 @@ li h3 {
 
 .gallery {
   max-width: 800px;
-  margin: 3% auto;
+  margin: 5% auto;
   text-align: center;
 }
 
@@ -37,6 +37,7 @@ li h3 {
   display: flex;
   align-items: center;
   flex-direction: column;
+  padding: 0 20px;
 }
 
 .profile-picture {
@@ -92,6 +93,7 @@ li h3 {
 }
 
 footer {
+  margin-top: 100px;
   text-align: center;
   font-size: 0.7rem;
 }
